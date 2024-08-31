@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vassilis
 - 👀 I’m interested in bioprocess engineering
 - 🌱 I’m currently learning scientific computing and bioprocess model developement
-- 💞️ I’m looking to collaborate on process model developement projects
+- :handshake: I’m looking to collaborate on process model developement projects
 - 📫 How to reach me: 📧 vassilisparisis@gmail.com, LinkedIn: www.linkedin.com/in/vassilis-parisis
 
 <!---
